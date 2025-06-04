@@ -39,6 +39,8 @@ https://www.nirsoft.net/utils/fulleventlogview-x64.zip [EventLog View]
 
 https://www.nirsoft.net/utils/driverview-x64.zip [Driver view]
 
+https://www.majorgeeks.com/mg/get/usb_device_tree_viewer,1.html [USB TreeView]
+
 _Journal/$MFT_
 
 https://dl.echo.ac/tool/journal [Echo Journal]
